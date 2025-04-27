@@ -1,7 +1,3 @@
-Here’s the README **for your Health-Check Server project**, same nice style, all complete:
-
----
-
 ![Surfing4Fun](https://cdn.discordapp.com/banners/749142414475919420/c644a0faf33aa355463524c3b64512f2.webp?size=1024)
 
 # Server Health-Check API
